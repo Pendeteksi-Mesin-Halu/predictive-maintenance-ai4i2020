@@ -82,6 +82,8 @@ Dataset memiliki **99.19%–99.81% data Normal** (0) dan hanya **0.19%–1.15% d
 
 ## 🖥️ Streamlit UI
 
+![Streamlit UI Screenshot](ui_screenshot.png)
+
 ```
 streamlit run app/streamlit_app.py
 ```
