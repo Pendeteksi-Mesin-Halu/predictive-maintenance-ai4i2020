@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Reasonix / codegraph
+.reasonix/
+.codegraph/
+
+# Duplicate files in root
+/ai4i2020.csv
+/predictive_maintenance_rf_nb_balanced.ipynb
+
+# Streamlit screenshot
+ui_screenshot.png
